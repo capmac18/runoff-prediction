@@ -6,4 +6,4 @@ The Table_extractor.py module extracts the table as a dataframe from the format 
 The Rainfall_Models_python.py file is the main file which predicts the runoff values and measures its performance against the traditional Inglis model.
 
 
-![Alt Text](plot.jgp)
+![Alt Text](plot.jpg)
